@@ -2,3 +2,4 @@
 clear
 echo "Toto!"
 ls
+pwd
